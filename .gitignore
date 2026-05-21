@@ -1,0 +1,18 @@
+# Old WordPress site files
+old_site/
+
+# Original emails (contain sensitive data)
+emails/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Old business card images (replaced by real licenses)
+images/certificates/GasTech1.jpg
+images/certificates/GasTech2.jpg
+images/certificates/GasTech3.jpg
+images/certificates/GasTech4.jpg
+
+# Diploma (not published, info used as text)
+images/certificates/DyplomaRU 009.jpg.pdf
